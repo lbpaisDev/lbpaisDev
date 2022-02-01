@@ -28,7 +28,7 @@
 
 - :man_student:Currently, i'm tacking the Masters in Software Engineering from the University of Coimbra.
 - :heart:My main interests are Software Development in general as well as Cybersecurity and White Hat Hacking.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pais-493501170/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pais-493501170/)
 
 ## ♟️ My Hobbies :
 I really enjoy sports so my main hobbies are:
