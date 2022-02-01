@@ -47,7 +47,6 @@ and
   
   [![CodeWars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/lbpaisDev)
-
 ---
 
 ## :hammer_and_wrench: Languages and Tools :
