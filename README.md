@@ -24,7 +24,7 @@
 ---
 
 ## :man_technologist: About Me :
-### I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 - :man_student:Currently, i'm tacking the Masters in Software Engineering from the University of Coimbra.
 - :heart:My main interests are Software Development in general as well as Cybersecurity and White Hat Hacking.
