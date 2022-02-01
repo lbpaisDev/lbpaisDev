@@ -28,7 +28,7 @@
 
 - :man_student:Currently, i'm tacking the Masters in Software Engineering from the University of Coimbra.
 - :heart:My main interests are Software Development in general as well as Cybersecurity and White Hat Hacking.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/lbpaisDev)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.codewars.com/users/lbpaisDev)
 
 ## ♟️ My Hobbies :
 I really enjoy sports so my main hobbies are:
@@ -37,8 +37,8 @@ I really enjoy sports so my main hobbies are:
 I also like
 - 🎮Gaming
 and
-- 💻Solving problems on CodeWars [![CodeWars Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pais-493501170/)
-
+- 💻Solving problems on CodeWars [![CodeWars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+)](https://www.linkedin.com/in/leandro-pais-493501170/)
 
 ---
 
