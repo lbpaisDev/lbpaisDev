@@ -1,49 +1,100 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1e5f74&height=190&section=header&text=Leandro%20Pais&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%94%20Mobile%20%C2%B7%20Web%20%C2%B7%20Backend&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Leandro Pais, Software Engineer"/>
+
 <div align="center">
 
-# Hi, I'm Leandro 👋
+<a href="https://github.com/lbpaisDev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=1E8FA8&center=true&vCenter=true&width=620&lines=4+years+shipping+production+software;Android+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+Java+Spring;Payments%2C+ERP+integrations%2C+messaging%2C+offline-first+apps" alt="Typing summary"/></a>
 
-**Software engineer in Portugal · 4 years building mobile, web and backend systems**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pais-493501170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Pais-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pais-493501170/)
+&nbsp;
+![Location](https://img.shields.io/badge/Based_in-Portugal-1e5f74?style=flat-square&logo=googlemaps&logoColor=white)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-4_years-0b1f3a?style=flat-square&logo=codefactor&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About me
+I'm a full-stack software engineer who's spent the last four years building systems companies run on: native Android apps, React and Angular front ends, and Java Spring backends behind them. I like the hard, unglamorous parts: data that has to stay consistent, integrations that can't drop a record, and apps that keep working when the network doesn't.
 
-I work across the whole stack: Android apps, web front ends in React and Angular, and Java Spring backends. Most of what I've built lives inside companies, in systems where correctness matters more than flash.
+<br/>
 
-## 🧩 What I've worked on
+## 🧭 What I work on
 
-- **Business-critical internal systems.** Payments, hours allocation and vacation management, where every change has to be correct, traceable and approved by the right person.
-- **ERP integrations.** Keeping company systems in sync with an ERP as the source of truth: mapping data between models, handling failures and retries, and making sure nothing is lost or counted twice.
-- **Web dashboards.** Turning that operational data into views people use every day to plan and decide.
-- **Message+, an RCS messaging app for Japan.** Modern carrier messaging (rich chat, media, group conversations) built on telecom standards, for a market with its own language, expectations and carrier requirements.
-- **A field services app for Vodafone Portugal.** A mobile tool for technicians on the move: jobs and schedules that keep working with a weak or missing connection, and sync reliably when it comes back.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📱 Mobile</h3>
+      <ul>
+        <li>Native Android apps in production</li>
+        <li>Offline-first design with local storage and background sync</li>
+        <li>Conflict handling when devices reconnect</li>
+        <li>Real-time messaging on carrier standards (RCS)</li>
+        <li>Localization for non-Latin markets</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🖥️ Web</h3>
+      <ul>
+        <li>React and Angular single-page apps</li>
+        <li>Operational dashboards over large data sets</li>
+        <li>Complex, validated forms and approval flows</li>
+        <li>Role-based access across many user types</li>
+        <li>State management that stays predictable</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Backend</h3>
+      <ul>
+        <li>Java Spring services and REST APIs</li>
+        <li>Transactional payment and approval workflows</li>
+        <li>ERP integrations: mapping, retries, reconciliation</li>
+        <li>Scheduled jobs and batch processing</li>
+        <li>Audit trails for every change that matters</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tech I use
+## 🔍 Problems I've had to solve
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+- **Correctness where money and time are involved.** Payment flows, hours allocation and vacation balances, where every state change must be valid, traceable and approved by the right person, and concurrent edits can't corrupt a total.
+- **Keeping two systems of record in agreement.** Syncing with an ERP: translating between data models, making operations idempotent so retries are safe, and reconciling when the two sides drift.
+- **Apps that work without a connection.** Field tools that queue work offline, sync in the background and resolve conflicts cleanly when the device comes back online.
+- **Messaging at carrier scale.** Rich communication services (RCS): real-time chat, media and group conversations, delivery and read states, and the requirements of a carrier-operated market.
+- **Turning data into decisions.** Dashboards that stay fast and readable as data grows, built for people who use them every day.
+
+## 🚀 Shipped
+
+| | |
+| --- | --- |
+| 💬 **Message+** | RCS messaging app for the Japanese market |
+| 🛠️ **Field Services** | Mobile app for Vodafone Portugal's field technicians |
+| 🏢 **Internal platforms** | Payments, hours allocation, vacations, ERP integrations and dashboards |
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,react,angular,ts,js,html,css&theme=dark" alt="Java, Spring, Android, React, Angular, TypeScript, JavaScript, HTML, CSS"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,idea,vscode&theme=dark" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Linux, IntelliJ IDEA, VS Code"/>
 </p>
 
-## 🥋 Outside work
+## 🥋 Off the clock
 
-- 🥊 Kickboxing
-- 🥋 Jiu-jitsu, my newest obsession
-- 🏋️ The gym, still a constant
+<p align="center">
+  <img src="https://img.shields.io/badge/Kickboxing-c0392b?style=for-the-badge&logoColor=white" alt="Kickboxing"/>
+  <img src="https://img.shields.io/badge/Jiu--Jitsu-1e5f74?style=for-the-badge&logoColor=white" alt="Jiu-Jitsu"/>
+  <img src="https://img.shields.io/badge/Gym-0b1f3a?style=for-the-badge&logoColor=white" alt="Gym"/>
+</p>
+
+<p align="center">Kickboxing for years, jiu-jitsu more recently, and the gym as the constant in between.</p>
 
 ## 📈 Activity
 
-[![GitHub streak](https://streak-stats.demolab.com?user=lbpaisDev&theme=nightowl&hide_border=true)](https://streak-stats.demolab.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lbpaisDev&theme=transparent&hide_border=true&ring=1E8FA8&fire=1E8FA8&currStreakLabel=1E8FA8&sideNums=1E8FA8&dates=8B949E&currStreakNum=8B949E&sideLabels=8B949E" alt="GitHub contribution streak"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5f74,100:0b1f3a&height=110&section=footer" width="100%" alt=""/>
