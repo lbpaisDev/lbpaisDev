@@ -73,6 +73,33 @@ I'm a full-stack software engineer who's spent the last four years building syst
 | 🛠️ **Field Services** | Mobile app for Vodafone Portugal's field technicians |
 | 🏢 **Internal platforms** | Payments, hours allocation, vacations, ERP integrations and dashboards |
 
+## 🗂️ Side project: my university work, running again
+
+I brought 20 of my University of Coimbra projects back to life in a local portfolio site where each one runs live: a web terminal for the command-line programs, their own servers for the web apps, and interactive pages for the algorithms and benchmarks.
+
+- **Many stacks, one site.** C, C++/OpenGL, Java Swing, Java EE on WildFly, Kafka Streams with Kafka Connect, PHP with MySQL, Python, R, MATLAB (now in GNU Octave) and Unity, with its algorithms ported to the browser.
+- **Old code on today's toolchains.**
+  - Java EE 8 apps on WildFly 26 with JDK 17.
+  - A Docker Compose stack of Kafka, PostgreSQL and WildFly turned into plain start scripts.
+  - PowerShell test harnesses ported to bash.
+  - MATLAB toolbox calls replaced for Octave.
+- **Fixing what was broken.** Redirects hard-coded to one host and port, benchmark result files overwriting each other, a wallet balance that didn't update after a purchase, saved data read back in the wrong order, and a graph algorithm comparing against the wrong value.
+- **Checking the results, not just the build.**
+  - Kafka pipeline totals reconciled with the producer's own.
+  - A serialisation benchmark rerun next to its 2021 numbers.
+  - A statistics experiment rerun with its hypothesis tests.
+  - Signal entropies matched to the original MATLAB report.
+  - Every demo checked in a headless browser with Playwright.
+
+## 🔐 Interested in security
+
+- Application and API security: authentication, authorization, sessions and input validation
+- Secure payment and approval flows: least privilege, audit trails and tamper-evident records
+- Android app security: local data storage, network security and hardening
+- Threat modelling and secure-by-design reviews
+
+The systems I build handle money, personal data and access control, which is what drew me to this side of the work.
+
 ## 🛠️ Tech stack
 
 <p align="center">
